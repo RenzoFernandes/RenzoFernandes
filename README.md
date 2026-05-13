@@ -28,7 +28,7 @@ Desenvolvo projetos próprios com foco na resolução de problemas reais, atuand
 
 Possuo conhecimentos práticos em HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, PHP, C#, .NET, Java, SQL, MySQL e MongoDB, além de experiência com análise de dados e dashboards utilizando Power BI.
 
-Também possuo conhecimentos em Docker, integração de APIs, arquitetura de software e ambientes Mainframe (TSO/ZOWE), além de formação complementar pelo SAP Learning Hub, aprofundando estudos em ERP e tecnologias corporativas.
+Também possuo conhecimentos em Docker, integração de APIs, arquitetura de software e ambientes Mainframe IBM (TSO/ZOWE), além de formação complementar pelo SAP Learning Hub, aprofundando estudos em ERP e tecnologias corporativas.
 
 Tenho perfil analítico, foco em resolução de problemas e facilidade em conectar tecnologia às necessidades do negócio, buscando desenvolver soluções modernas, eficientes e com impacto real.
 
