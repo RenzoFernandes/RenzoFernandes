@@ -4,6 +4,8 @@
 
 ### Full Stack Software Engineer
 
+<img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=28&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;React+•+Node.js+•+.NET+•+Java;Building+scalable+solutions+through+technology" />
+
 🚀 React • Angular • Next.js • Node.js • .NET • Java • PHP • Docker • SQL
 
 <br>
@@ -20,13 +22,15 @@
 
 # 🚀 Sobre mim
 
-Desenvolvedor Full Stack apaixonado por tecnologia, arquitetura de sistemas e resolução de problemas reais através de software.
+Profissional em formação nas áreas de Sistemas de Informação e Ciências Contábeis, unindo tecnologia, dados e visão de negócios para atuar no desenvolvimento de soluções corporativas e sistemas escaláveis.
 
-Atualmente foco no desenvolvimento de aplicações web modernas, APIs REST, sistemas escaláveis e soluções orientadas a dados, conectando tecnologia, automação e visão de negócios para criar aplicações eficientes e com impacto real.
+Desenvolvo projetos próprios com foco na resolução de problemas reais, atuando tanto no front-end quanto no back-end, aplicando conceitos de desenvolvimento full stack, integração de sistemas, APIs REST, automação e modelagem de bancos de dados.
 
-Tenho experiência com desenvolvimento front-end e back-end, integrações entre sistemas, modelagem de banco de dados, dashboards, análise de dados e construção de aplicações completas utilizando tecnologias modernas do ecossistema JavaScript, .NET e Java.
+Possuo conhecimentos práticos em HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, PHP, C#, .NET, Java, SQL, MySQL e MongoDB, além de experiência com análise de dados e dashboards utilizando Power BI.
 
-Além da área de desenvolvimento, também possuo forte interesse em sistemas corporativos, ERP, SAP, automação de processos e tecnologias aplicadas ao ambiente empresarial.
+Também possuo conhecimentos em Docker, integração de APIs, arquitetura de software e ambientes Mainframe (TSO/ZOWE), além de formação complementar pelo SAP Learning Hub, aprofundando estudos em ERP e tecnologias corporativas.
+
+Tenho perfil analítico, foco em resolução de problemas e facilidade em conectar tecnologia às necessidades do negócio, buscando desenvolver soluções modernas, eficientes e com impacto real.
 
 ---
 
@@ -126,9 +130,11 @@ Além da área de desenvolvimento, também possuo forte interesse em sistemas co
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenzoFernandes&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenzoFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoFernandes&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoFernandes&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=RenzoFernandes&theme=tokyonight"/>
 
 </div>
 
