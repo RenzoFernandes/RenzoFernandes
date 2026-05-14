@@ -22,15 +22,17 @@
 
 # 🚀 Sobre mim
 
-Profissional em formação nas áreas de Sistemas de Informação e Ciências Contábeis, unindo tecnologia, dados e visão de negócios para atuar no desenvolvimento de soluções corporativas e sistemas escaláveis.
+Profissional em formação nas áreas de Sistemas de Informação e Ciências Contábeis, unindo tecnologia, dados e visão de negócios para desenvolver soluções corporativas e sistemas escaláveis.
 
-Desenvolvo projetos próprios com foco na resolução de problemas reais, atuando tanto no front-end quanto no back-end, aplicando conceitos de desenvolvimento full stack, integração de sistemas, APIs REST, automação e modelagem de bancos de dados.
+Desenvolvo projetos próprios com foco na resolução de problemas reais, atuando no front-end e back-end com desenvolvimento full stack, APIs REST, integração de sistemas, automação e modelagem de bancos de dados.
 
-Possuo conhecimentos práticos em HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, PHP, C#, .NET, Java, SQL, MySQL e MongoDB, além de experiência com análise de dados e dashboards utilizando Power BI.
+Possuo conhecimentos em HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, PHP, C#, .NET, Java, SQL, MySQL e MongoDB, além de experiência com análise de dados e dashboards utilizando Power BI.
 
-Também possuo conhecimentos em Docker, integração de APIs, arquitetura de software e ambientes Mainframe IBM (TSO/ZOWE), além de formação complementar pelo SAP Learning Hub, aprofundando estudos em ERP e tecnologias corporativas.
+Também tenho experiência com Docker, arquitetura de software, integração de APIs e ambientes Mainframe IBM (TSO/ZOWE), além de estudos em ERP e tecnologias corporativas através do SAP Learning Hub.
 
-Tenho perfil analítico, foco em resolução de problemas e facilidade em conectar tecnologia às necessidades do negócio, buscando desenvolver soluções modernas, eficientes e com impacto real.
+Interesse em Inteligência Artificial aplicada à automação, otimização de processos, produtividade e desenvolvimento de soluções mais inteligentes e eficientes, utilizando IA como apoio no desenvolvimento e análise de dados.
+
+Perfil analítico, aprendizado contínuo e foco em resolução de problemas, buscando criar soluções modernas, eficientes e com impacto real.
 
 ---
 
