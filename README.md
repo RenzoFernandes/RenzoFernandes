@@ -26,7 +26,7 @@ Profissional em formação nas áreas de Sistemas de Informação e Ciências Co
 
 Desenvolvo projetos próprios com foco na resolução de problemas reais, atuando no front-end e back-end com desenvolvimento full stack, APIs REST, integração de sistemas, automação e modelagem de bancos de dados.
 
-Possuo conhecimentos em HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, PHP, C#, .NET, Java, SQL, MySQL e MongoDB, além de experiência com análise de dados e dashboards utilizando Power BI.
+Experiência com HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, PHP, C#, .NET, Java, SQL, MySQL e MongoDB, além de experiência com análise de dados e dashboards utilizando Power BI.
 
 Também tenho experiência com Docker, arquitetura de software, integração de APIs e ambientes Mainframe IBM (TSO/ZOWE), além de estudos em ERP e tecnologias corporativas através do SAP Learning Hub.
 
