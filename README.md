@@ -22,7 +22,7 @@
 
 # 🚀 Sobre mim
 
-Profissional em formação nas áreas de Sistemas de Informação e Ciências Contábeis, unindo tecnologia, dados e visão de negócios para desenvolver soluções corporativas e sistemas escaláveis.
+Profissional em formação na área de Sistemas de Informação, unindo tecnologia, dados e visão de negócios para desenvolver soluções corporativas e sistemas escaláveis.
 
 Desenvolvo projetos próprios com foco na resolução de problemas reais, atuando no front-end e back-end com desenvolvimento full stack, APIs REST, integração de sistemas, automação e modelagem de bancos de dados.
 
@@ -104,10 +104,7 @@ Perfil analítico, aprendizado contínuo e foco em resolução de problemas, bus
 # 📚 Formação Acadêmica
 
 🎓 **Sistemas de Informação** — Universidade Santa Cecília  
-📅 2024 — 2028
-
-🎓 **Ciências Contábeis** — Universidade Santa Cecília  
-📅 2026 — 2029
+📅 2024 — 2027
 
 ---
 
