@@ -110,7 +110,7 @@ Perfil analítico, aprendizado contínuo e foco em resolução de problemas, bus
 
 # 💼 Experiência
 
-## Full Stack Developer
+## Full Stack Software Engineer
 
 📍 São Paulo, Brasil  
 📅 2023 — Atualmente
