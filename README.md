@@ -61,12 +61,15 @@ Estou expandindo meus conhecimentos no ecossistema **SAP** por meio do SAP Learn
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
 ![ITIL](https://img.shields.io/badge/ITIL-Service_Management-0A66C2?style=flat)
+![Mainframe](https://img.shields.io/badge/Mainframe_IBM-TSO%2FZOWE-052FAD?style=flat&logo=ibm&logoColor=white)
 
 **Automação, Dados & BI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
@@ -75,11 +78,14 @@ Estou expandindo meus conhecimentos no ecossistema **SAP** por meio do SAP Learn
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Ferramentas**
 
@@ -87,15 +93,6 @@ Estou expandindo meus conhecimentos no ecossistema **SAP** por meio do SAP Learn
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Também trabalho com**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Mainframe](https://img.shields.io/badge/Mainframe_IBM-TSO%2FZOWE-052FAD?style=flat&logo=ibm&logoColor=white)
 
 **Em estudo**
 
@@ -137,4 +134,3 @@ Estou expandindo meus conhecimentos no ecossistema **SAP** por meio do SAP Learn
 🇧🇷 Português — Nativo • 🇺🇸 Inglês — Profissional • 🇪🇸 Espanhol — Profissional
 
 ---
-
