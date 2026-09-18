@@ -88,9 +88,20 @@ Estou expandindo meus conhecimentos no ecossistema **SAP** por meio do SAP Learn
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Também trabalho com:** Angular • MongoDB • SQL Server • Express • Tailwind CSS • Mainframe IBM (TSO/ZOWE)
+**Também trabalho com**
 
-**Em estudo:** SAP S/4HANA • SAP BTP • SAP Joule
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Mainframe](https://img.shields.io/badge/Mainframe_IBM-TSO%2FZOWE-052FAD?style=flat&logo=ibm&logoColor=white)
+
+**Em estudo**
+
+![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![SAP Joule](https://img.shields.io/badge/SAP_Joule-0FAAFF?style=flat&logo=sap&logoColor=white)
 
 ---
 
@@ -127,8 +138,3 @@ Estou expandindo meus conhecimentos no ecossistema **SAP** por meio do SAP Learn
 
 ---
 
-<div align="center">
-
-### “Transformando problemas de negócio em soluções eficientes com código, dados e estratégia.” 🚀
-
-</div>
